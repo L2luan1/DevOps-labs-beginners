@@ -23,3 +23,12 @@ Contribuições são bem-vindas! Confira o [CONTRIBUTING.md](CONTRIBUTING.md) pa
 ## Licença
 Este projeto está licenciado sob os termos da [MIT License](LICENSE).
 >>>>>>> 10abb06 (Adicionando README.md ao repositório)
+# DevOps Labs for Beginners
+
+## 📌 Introdução
+Este é um laboratório prático para aprender Docker e práticas de DevOps. O objetivo é ajudar iniciantes a construir uma base sólida.
+
+## 🚀 Configuração Inicial
+1. Clone este repositório:
+   ```bash
+   git clone https://github.com/L2luan1/DevOps-labs-beginners.git
