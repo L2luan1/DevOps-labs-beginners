@@ -32,3 +32,10 @@ Este é um laboratório prático para aprender Docker e práticas de DevOps. O o
 1. Clone este repositório:
    ```bash
    git clone https://github.com/L2luan1/DevOps-labs-beginners.git
+2. ## 🐳 Como usar a imagem Docker deste projeto?
+
+A imagem Docker deste projeto está disponível no Docker Hub. Para utilizá-la:
+
+1. Faça o pull da imagem:
+   ```bash
+   docker pull luandev1/devops-lab:1.0
